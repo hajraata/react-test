@@ -1,0 +1,13 @@
+.table-users {
+  width: 95vw;
+  margin: 10vh auto;
+}
+
+.btn-sort {
+  padding: 10px;
+  margin-left: 5px;
+}
+
+.btn-sort i {
+  cursor: pointer;
+}
